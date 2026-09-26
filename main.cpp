@@ -70,7 +70,7 @@ int main()
 
     if(!ok)    //此时函数返回false
     {
-        cerr << "计算失败：深度非正！"<< endl;
+        cerr << "计算失败：深度为非正！"<< endl;
 
         return 1;
     }
