@@ -19,6 +19,6 @@ bool work(
     double& u,
     double& v,
     double& error
-)
+);
 
 #endif
